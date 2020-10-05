@@ -1,7 +1,7 @@
 # windows-adblocker
 Free Windows AdBlocker
 
- - summary: free and priave adblocker leveraging hosts file blacklist.
+ - summary: free and private adblocker leveraging hosts file blacklist.
  - features:
    - free and private.
    - block pop ups, ads, banners and 3rd party tracking.
