@@ -4,6 +4,8 @@ Free Windows AdBlocker
  - summary: free and priave adblocker leveraging hosts file blacklist.
  - features:
    - free and private.
+   - block pop ups, ads, banners and 3rd party tracking.
+   - faster page load times due to blocking ads and trackers.
    - desktop shortcut to quickly turn blocking on/off.
    - lightweight windows batch script.
  - pre-requisites & setup:
