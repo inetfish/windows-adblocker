@@ -1,7 +1,11 @@
 # windows-adblocker
 Free Windows AdBlocker
 
- - summary: adblocker leveraging hosts file blacklist. free and private.
+ - summary: free and priave adblocker leveraging hosts file blacklist.
+ - features:
+   - free and private.
+   - desktop shortcut to quickly turn blocking on/off.
+   - lightweight windows batch script.
  - pre-requisites & setup:
    - extract/download to %userprofile%\scripts\adblocker, shortcuts are configured to run from the path.
    - requires curl (default in windows10).
