@@ -8,9 +8,11 @@ Free Windows AdBlocker
    - faster page load times due to blocking ads and trackers.
    - desktop shortcut to quickly turn blocking on/off.
    - lightweight windows batch script.
- - pre-requisites & setup:
-   - extract/download to %userprofile%\scripts\adblocker, shortcuts are configured to run from the path.
+ - pre-requisites
+   - windows operating system.
    - requires curl (default in windows10).
+ - setup: 
+   - extract/download to %userprofile%\scripts\adblocker, shortcuts are configured to run from the path.
    - bootstrap by starting administrator command window and executing copy-hosts.cmd. A shortcut can also be run.
   - other details:
     - hosts file blacklist is updated each time adblocker is enabled.
