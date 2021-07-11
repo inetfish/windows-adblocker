@@ -42,7 +42,7 @@ copy "Turn AdBlocker On.lnk" %userprofile%\desktop\
 :end
 
 echo Append the custom host file entries to the end of the file >> %logfile%
-type hosts-custom.txt >> %SYSTEMROOT%\system32\drivers\etc\hosts 
+type hosts-custom >> %SYSTEMROOT%\system32\drivers\etc\hosts 
 
 echo Turning on READ ONLY bit to prevent hijacking... >> %logfile%
 attrib +r %SYSTEMROOT%\system32\drivers\etc\hosts 
